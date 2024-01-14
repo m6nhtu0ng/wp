@@ -1,0 +1,1 @@
+[09-Nov-2023 11:08:38 UTC] Cron unschedule event error for hook: wp_https_detection, Error code: could_not_set, Error message: Không thể lưu danh sách sự kiện cron., Data: {"schedule":"twicedaily","args":[],"interval":43200}
